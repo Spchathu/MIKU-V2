@@ -7,23 +7,23 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919536476115']
-global.OwnerNumber = ['919536476115']
-global.ownertag = ['919536476115']
-global.BotName = "𝑴𝑰𝑲𝑼-𝑽2"
-global.packname = "𝑴𝑰𝑲𝑼-𝑽2"
-global.author = "𝑩𝒀 - 𝑪𝑯𝑰𝑹𝑨𝑮 𝒀𝑶𝑼𝑻𝑼𝑩𝑬𝑹"
-global.OwnerName = "CHIRAG YOUTUBER"
+global.Owner = ['94761091578']
+global.OwnerNumber = ['94761091578']
+global.ownertag = ['94761091578']
+global.BotName = "𝑴𝑰𝑲𝑼-𝑽2 𝘼𝙢𝙖𝙨𝙝𝙖"
+global.packname = "𝑴𝑰𝑲𝑼-𝑽2 𝘼𝙢𝙖𝙨𝙝𝙖"
+global.author = "𝙈𝙄𝙃𝙄𝙍𝙐𝙆 𝙈𝘿 𝒀𝑶𝑼𝑻𝑼𝑩𝑬𝑹"
+global.OwnerName = "𝙼𝚒𝚑𝚒𝚛𝚞𝚔 𝙳𝚒𝚕𝚜𝚑𝚊𝚗"
 global.BotSourceCode = "https://github.com/LOSTHACKEROFC/MIKU-V2"
-global.SupportGroupLink = "https://chat.whatsapp.com/JvIdTV61RUs4NTmYrtV6qz"
+global.SupportGroupLink = "https://chat.whatsapp.com/FjueddrQNAb6O4ZPzQALsE"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['#'] 
+global.prefa = ['.'] 
 
 
-global.location = "UTTRAKHAND, India"
+global.location = "Colombo, Sri lanka"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
