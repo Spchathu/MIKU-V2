@@ -7,20 +7,20 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['94761091578']
-global.OwnerNumber = ['94761091578']
-global.ownertag = ['94761091578']
-global.BotName = "𝑴𝑰𝑲𝑼-𝑽2 𝘼𝙢𝙖𝙨𝙝𝙖"
-global.packname = "𝑴𝑰𝑲𝑼-𝑽2 𝘼𝙢𝙖𝙨𝙝𝙖"
+global.Owner = ['94766969406']
+global.OwnerNumber = ['94766969406']
+global.ownertag = ['94766969406']
+global.BotName = "𝑴𝑰𝑲𝑼-𝑽2 𝗠𝗜𝗛𝗜𝗥𝗨𝗞 𝗦𝗣𝗘𝗖𝗜𝗔𝗟"
+global.packname = "𝑴𝑰𝑲𝑼-𝑽2 𝗠𝗜𝗛𝗜𝗥𝗨𝗞 𝗦𝗣𝗘𝗖𝗜𝗔𝗟"
 global.author = "𝙈𝙄𝙃𝙄𝙍𝙐𝙆 𝙈𝘿 𝒀𝑶𝑼𝑻𝑼𝑩𝑬𝑹"
 global.OwnerName = "𝙼𝚒𝚑𝚒𝚛𝚞𝚔 𝙳𝚒𝚕𝚜𝚑𝚊𝚗"
 global.BotSourceCode = "https://github.com/LOSTHACKEROFC/MIKU-V2"
-global.SupportGroupLink = "https://chat.whatsapp.com/FjueddrQNAb6O4ZPzQALsE"
+global.SupportGroupLink = "https://chat.whatsapp.com/DnV6xitooDlDz2YXLrIWqv"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['#'] 
+global.prefa = ['.'] 
 
 
 global.location = "Colombo, Sri lanka"
